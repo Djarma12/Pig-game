@@ -1,6 +1,6 @@
 # Pig-game
 
-The game was made so that I could learn the basics of programming logic, where working with the DOM and events.
+The game was made so that I could learn the basics of programming logic, where working with the DOM and Events.
 
 You can view the project live here:
 [Pig Game](https://pig-game-project-app.netlify.app/)
